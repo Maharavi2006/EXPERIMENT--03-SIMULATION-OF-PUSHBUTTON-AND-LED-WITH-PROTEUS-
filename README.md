@@ -1,7 +1,9 @@
 # EXPERIMENT--03-SIMULATION-OF-PUSHBUTTON-AND-LED INTERFACE WITH ARM CONTROLLER AND PROTEUS 
 
 Name: Mahalakshmi.R
+
 Date: 24/03/2024
+
 Register number: 212223230117
 
 ## Aim: To Interface a Digital output (LED) and Digital input (Pushbutton) to ARM development board , and simulate it in Proteus 
